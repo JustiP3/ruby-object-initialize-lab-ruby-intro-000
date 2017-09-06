@@ -7,8 +7,8 @@ class Dog
     @breed
   end
   initialize(breed = "mutt", name = "Mutt")
-  @name = name
-  @breed = breed
-end
+    @name = name
+    @breed = breed
+  end
 
 end
